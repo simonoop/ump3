@@ -1,0 +1,24 @@
+{
+  "name": "ump3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonoop/ump3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonoop/ump3/issues"
+  },
+  "homepage": "https://github.com/simonoop/ump3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
